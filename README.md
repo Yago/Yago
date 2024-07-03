@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Yann, **Frontend** and **JavaScript developer**. I'm also a photographer, a sailor, a sourdough baker (like everybody since the pandemic), a husband and a father!
+I'm Yann, **Frontend** and **JavaScript developer**. I'm also a photographer, a sailor, a sourdough baker, a home cook, a husband and a father!
 
 **Find out more on [yago.io](https://yago.io) 😉**
 
